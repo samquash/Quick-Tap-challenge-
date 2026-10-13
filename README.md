@@ -1,2 +1,6 @@
-# Quick-Tap-challenge-
-⚡ Neon arcade tap game with 5 levels, timer, and saved high score. Installable PWA that works offline.
+<html>
+<style>
+   div{min-height:1em;}
+</style>
+<body># ⚡ Quick Tap Challenge<br/><br/>A fast neon arcade tapping game. Tap as quickly as you can to hit the target<br/>before the timer runs out. Each level gets harder.<br/><br/>**Play online:** https://username.github.io/repo-name/<br/><br/>## Features<br/>- 5 levels with rising difficulty (more taps, less time)<br/>- Countdown timer and live progress bar<br/>- Score system with time bonus<br/>- High score saved in localStorage<br/>- Neon dark-mode design, ripple effects and sound effects<br/>- Touch, mouse and keyboard (Space/Enter) support<br/>- Installable PWA, works offline<br/>- Single HTML file, no frameworks or dependencies<br/><br/>## Levels<br/><br/>| Level | Target Taps | Time |<br/>|-------|-------------|------|<br/>| 1     | 20          | 10s  |<br/>| 2     | 30          | 10s  |<br/>| 3     | 40          | 9s   |<br/>| 4     | 50          | 8s   |<br/>| 5     | 60          | 7s   |<br/><br/>## Run locally<br/>1. Download or clone this repo.<br/>2. Open `index.html` in any browser.<br/><br/>## Project structure</body>
+</html>

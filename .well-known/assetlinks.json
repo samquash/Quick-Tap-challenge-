@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.samquash.twa",
+        "sha256_cert_fingerprints": ["10:B9:C0:7F:6E:FA:79:A5:EB:1F:5F:3A:EA:36:91:1F:9A:E3:DD:C5:C7:8B:20:69:F8:8E:AA:75:83:B1:7B:84"]
+      }
+    }]
